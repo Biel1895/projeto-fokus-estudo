@@ -21,7 +21,7 @@ Este site foi desenvolvido utilizando as seguintes tecnologias:
 
 ## Como Visualizar o Site
 
-Você pode acessar meu site pessoal [clicando aqui](https://projeto-plataforma-alura-books.vercel.app/).
+Você pode acessar meu site pessoal [clicando aqui](https://projeto-fokus-estudo.vercel.app/).
 
 ## Contribuições
 
